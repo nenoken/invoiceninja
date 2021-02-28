@@ -70,6 +70,8 @@
                                 <img style="height: 6rem;" src="{{ asset('images/social/signin/btn_linkedin_signin.png') }}">
                             @elseif($provider === SOCIAL_FACEBOOK)
                                 <img style="height: 6rem;" src="{{ asset('images/social/signin/btn_facebook_signin.png') }}">
+                            @elseif($provider == SOCIAL_GITLAB)
+                                <img style="height: 6rem;" src="{{ asset('images/social/signin/btn_gitlab_signin.png') }}">
                             @endif
                         </a>
                     </div>
