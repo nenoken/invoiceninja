@@ -523,7 +523,8 @@ if (! defined('APP_NAME')) {
     define('SOCIAL_GOOGLE', 'Google');
     define('SOCIAL_FACEBOOK', 'Facebook');
     define('SOCIAL_GITHUB', 'GitHub');
-    define('SOCIAL_LINKEDIN', 'LinkedIn');
+    define('SOCIAL_GITLAB', 'GitLab');
+    
 
     define('USER_STATE_ACTIVE', 'active');
     define('USER_STATE_PENDING', 'pending');
