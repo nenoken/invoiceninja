@@ -184,6 +184,7 @@ class Utils
             SOCIAL_FACEBOOK,
             SOCIAL_GITHUB,
             SOCIAL_LINKEDIN,
+	    SOCIAL_GITLAB,
         ];
 
         foreach ($providers as $provider) {
