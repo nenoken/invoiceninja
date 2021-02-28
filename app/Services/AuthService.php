@@ -29,6 +29,7 @@ class AuthService
         2 => SOCIAL_FACEBOOK,
         3 => SOCIAL_GITHUB,
         4 => SOCIAL_LINKEDIN,
+        5 => SOCIAL_GITLAB,
     ];
 
     /**
