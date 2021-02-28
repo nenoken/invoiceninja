@@ -9,6 +9,7 @@ class OAuth {
     const SOCIAL_FACEBOOK = 2;
     const SOCIAL_GITHUB = 3;
     const SOCIAL_LINKEDIN = 4;
+    const SOCIAL_GITLAB = 5;
 
     private $providerInstance;
     private $providerId;
